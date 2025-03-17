@@ -1,0 +1,55 @@
+first_name,last_name,email,address,phone_number,course_id,rank
+John,Daniels,john.daniels@sjsu.edu,Rodriguezberg,3979077829,data200,assistant professor
+Matthew,Powell,matthew.powell@sjsu.edu,Smithberg,7865344016,data200,assistant professor
+Lisa,Swanson,lisa.swanson@sjsu.edu,South Joshua,0319873890,data200,assistant professor
+Michael,Orr,michael.orr@sjsu.edu,Lake Williamberg,8970266037,data200,assistant professor
+Christopher,Cox,christopher.cox@sjsu.edu,Lake Brian,4756682768,data200,junior professor
+David,Gibbs,david.gibbs@sjsu.edu,Port Jeremyville,2482618279,data200,head of department
+Gary,Lambert,gary.lambert@sjsu.edu,West Stephanie,9695529576,data201,assistant professor
+Daniel,Ortiz,daniel.ortiz@sjsu.edu,Port Kristin,7468916045,data201,assistant professor
+Jonathan,Oliver,jonathan.oliver@sjsu.edu,Port Karenbury,7264723451,data201,assistant professor
+Felicia,Mcdonald,felicia.mcdonald@sjsu.edu,Port Samantha,8641506786,data201,assistant professor
+Brittany,Anderson,brittany.anderson@sjsu.edu,Turnerville,6236446123,data201,junior professor
+Samuel,Williams,samuel.williams@sjsu.edu,West Walter,9180302137,data201,head of department
+Tara,Riley,tara.riley@sjsu.edu,Port Christianshire,1536925146,data202,assistant professor
+Blake,Davis,blake.davis@sjsu.edu,Jessicafurt,0034166362,data202,assistant professor
+Sarah,Thomas,sarah.thomas@sjsu.edu,Kennethmouth,1613199625,data202,assistant professor
+Steven,Ellis,steven.ellis@sjsu.edu,Williamstown,8119113631,data202,assistant professor
+Brianna,Rodriguez,brianna.rodriguez@sjsu.edu,Karenborough,9840691989,data202,junior professor
+Crystal,Gonzalez,crystal.gonzalez@sjsu.edu,Port Rachelton,1332177532,data202,head of department
+Katherine,Taylor,katherine.taylor@sjsu.edu,Shortbury,5716170301,data220,assistant professor
+Courtney,Rose,courtney.rose@sjsu.edu,Deannaton,1348847180,data220,assistant professor
+Elizabeth,Miles,elizabeth.miles@sjsu.edu,Lake Maria,6114019203,data220,assistant professor
+Victor,Buchanan,victor.buchanan@sjsu.edu,South Kimberlyborough,8266323755,data220,assistant professor
+Michael,Tran,michael.tran@sjsu.edu,West Gavinside,4392395847,data220,junior professor
+Samantha,Campbell,samantha.campbell@sjsu.edu,Port Tanya,2453672709,data220,head of department
+Daniel,Finley,daniel.finley@sjsu.edu,Port Patriciashire,2306038046,data226,assistant professor
+Daniel,Gallagher,daniel.gallagher@sjsu.edu,Lake Michaelfurt,8356467759,data226,assistant professor
+Margaret,Hoffman,margaret.hoffman@sjsu.edu,North Sarahbury,5285125678,data226,assistant professor
+Annette,Larsen,annette.larsen@sjsu.edu,North Mark,2226632307,data226,assistant professor
+Brenda,Russo,brenda.russo@sjsu.edu,Holdentown,7696163402,data226,junior professor
+Sara,Browning,sara.browning@sjsu.edu,Joannaview,7843142407,data226,head of department
+Danny,Murphy,danny.murphy@sjsu.edu,South Andreamouth,9539499783,data245,assistant professor
+Matthew,Jones,matthew.jones@sjsu.edu,North Rachel,2048083077,data245,assistant professor
+Mary,Sullivan,mary.sullivan@sjsu.edu,Williamstown,9916626410,data245,assistant professor
+Andrew,Perez,andrew.perez@sjsu.edu,Rasmussenborough,3805059333,data245,assistant professor
+Colin,Espinoza,colin.espinoza@sjsu.edu,Port Kevinberg,4307455331,data245,junior professor
+Stephen,Smith,stephen.smith@sjsu.edu,New Anthony,4660878874,data245,head of department
+Gary,Harmon,gary.harmon@sjsu.edu,Moorefurt,7617185591,data228,assistant professor
+Joshua,Harris,joshua.harris@sjsu.edu,East Shane,6331123628,data228,assistant professor
+Sarah,Russell,sarah.russell@sjsu.edu,Tapiastad,0315915949,data228,assistant professor
+Daniel,Jackson,daniel.jackson@sjsu.edu,East Gabriel,6559226722,data228,assistant professor
+Emily,Dalton,emily.dalton@sjsu.edu,West Lisa,7590002851,data228,junior professor
+Mark,Miller,mark.miller@sjsu.edu,Kevinmouth,9447349982,data228,head of department
+Leah,Phillips,leah.phillips@sjsu.edu,Michaelhaven,5554400642,data230,assistant professor
+Frederick,Johnson,frederick.johnson@sjsu.edu,Brownhaven,4259756656,data230,assistant professor
+Heather,Bailey,heather.bailey@sjsu.edu,Valeriestad,5051123202,data230,assistant professor
+Carol,Wright,carol.wright@sjsu.edu,Robinsonton,4872410640,data230,assistant professor
+Andrew,Mills,andrew.mills@sjsu.edu,Port Brettside,1714957578,data230,junior professor
+Christy,Swanson,christy.swanson@sjsu.edu,West Stephanie,9444550354,data230,head of department
+Deborah,Humphrey,deborah.humphrey@sjsu.edu,West Danielmouth,7111465926,data255,assistant professor
+Jose,Rush,jose.rush@sjsu.edu,Youngmouth,5032036259,data255,assistant professor
+Tiffany,Tran,tiffany.tran@sjsu.edu,Robinsonmouth,9276036313,data255,assistant professor
+Laura,Long,laura.long@sjsu.edu,North Jenniferstad,6050705360,data255,assistant professor
+Laura,Solis,laura.solis@sjsu.edu,South David,4872369563,data255,junior professor
+Patrick,Soto,patrick.soto@sjsu.edu,East Elijah,4286177622,data255,head of department
